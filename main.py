@@ -1,0 +1,1 @@
+print("ISPOLNYAMYJ FAIL")
